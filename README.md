@@ -49,4 +49,4 @@ pip install django
 
 # To Do:
 
-[x]- There is a video on YouTube 🎥
+[ x ]- There is a video on YouTube 🎥
