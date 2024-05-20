@@ -11,3 +11,15 @@ installing python3 for link [https://www.python.org/](https://www.python.org/)
 ```
 pip install virtulenv
 ```
+
+```
+virtualenv .venv
+```
+
+```
+.venv\Scripts\activate
+```
+
+```
+pip install django
+```
