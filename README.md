@@ -1,6 +1,6 @@
 # Token
 
-# How to run:
+# What basic things to install:
 
 1. installing `virtulenv` ←↑→ `python3`
 
@@ -41,3 +41,7 @@ source .venv/bin/activate
 ```
 pip install django
 ```
+
+# Running projects 👟:
+
+1. 
