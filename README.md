@@ -46,3 +46,7 @@ pip install django
 
 1. cd `Token`
 2. `python3 manage.py runserver 8000`
+
+# To Do:
+
+[x] There is a video on YouTube 🎥
