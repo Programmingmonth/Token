@@ -44,8 +44,8 @@ pip install django
 
 # Running projects 👟:
 
-1. cd `Token`
-2. `python3 manage.py runserver 8000`
+1. cd `Token`✓
+2. `python3 manage.py runserver 8000`✓
 
 # To Do:
 
