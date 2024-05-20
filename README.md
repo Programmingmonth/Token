@@ -44,4 +44,4 @@ pip install django
 
 # Running projects 👟:
 
-1. 
+1. cd `Token`
