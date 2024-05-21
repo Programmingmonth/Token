@@ -8,7 +8,7 @@
 
 installing python3 for link [https://www.python.org/](https://www.python.org/)
 ![image](assets/installtionpython.png)
-👆👆👆👆👆👆👆
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 ```
 pip install virtulenv
 ```
