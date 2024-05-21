@@ -52,3 +52,6 @@ pip install django
 # To Do:
 
 - [x] There is a video on YouTube 🎥
+
+# Definition:
+<a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
