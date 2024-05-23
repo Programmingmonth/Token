@@ -53,6 +53,7 @@ pip install django
 
 - [x] There is a video on YouTube 🎥
 - [ ] Not yet complete...
+- [ ] This code is only for Python and HTML, other languages are not included in this project.
 
 # Address:
 🎥 YouTube: https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
