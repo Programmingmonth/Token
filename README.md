@@ -52,6 +52,7 @@ pip install django
 # To Do:
 
 - [x] There is a video on YouTube 🎥
+- [ ] Not yet complete...
 
 # Address:
 🎥 YouTube: https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
