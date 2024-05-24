@@ -46,13 +46,14 @@ pip install django
 
 # Running projects 👟:
 
-1. cd `Token`✓
-2. `python3 manage.py runserver 8000`✓
+1. cd `Token` 💯
+2. `python3 manage.py runserver 8000` 💯
 
 # To Do:
 
 - [x] There is a video on YouTube 🎥
 - [ ] Not yet complete...
+- [ ] This code is only for Python and HTML, other languages are not included in this project.
 
 # Address:
 🎥 YouTube: https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
