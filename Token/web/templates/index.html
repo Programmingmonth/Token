@@ -9,11 +9,17 @@
     <style>
         #Tokens {
             margin-right: 50%;
-            color: coral;
+            color: #ff00d0;
             text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
             font-size: x-large;
         }
 
+        .navbar-text {
+          color: #ff00d0;
+          text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+          font-size: larger;
+        }
+        
         .rounded-rectangle {
             width: 100%;
             height: 144px;
@@ -33,6 +39,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            margin-top: 20px;
         }
 
         #charset {
@@ -45,33 +52,49 @@
             margin-right: 500px;
             margin-left: -57%;
             margin-block-end: 145px;
-          }
+        }
 
-          .Price {
+        .Price {
             position: absolute;
             top: 50%;
             left: 189px;
             transform: translate(-50%, -430%);
             margin: 0;
-          }
+        }
+
+        #gitlink {
+            color: red;
+        }
     </style>
 </head>
 <body>
-    <nav class="navbar bg-body-" style="background-color: rgb(255, 255, 122);">
+    <nav class="navbar bg-body-" style="background-color: rgb(255, 217, 170)">
         <div class="container-fluid">
           <span class="navbar-text">
-            Templates for <a href="https://www.djangoproject.com/">django</a>
+            Templates forms <a href="https://www.djangoproject.com/">django</a>
           </span>
           <a id="Tokens" class="nav-link" href="#">Tokens</a>
         </div>
     </nav>
-      <div class="rounded-rectangle">
-        <p id="charset"><b>Hello, I created this project so that we can work with Django and HTML first, and in order to be able to use it, I created crypto tokens for you inside these projects. If you enjoy this project, my <a href="https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw">YouTube channel</a>, the address of which I put on the top of the page. You can use channel videos.</b></p>
-      </div>
-      <br>
-      <div class="tes">
+    <div class="rounded-rectangle">
+        <p id="charset"><b>Hello, I created this project so that we can work with Django and HTML first, and in order to be able to use it, I created crypto tokens for you inside these projects. If you enjoy this project, my <a href="https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw">YouTube channel</a>, the address of which I put on the top of the page. You can use channel videos.</b>
+          <br>
+          <br>
+          <b>Github address: <a id="gitlink" href="https://github.com/Programmingmonth">https://github.com/Programmingmonth</a> </b> 
+        </p>
+    </div>
+    <br>
+    <div class="tes">
         <img class="src" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=032" alt="">
         <h6 class="Price">Price: $68,728.16</h6>
-      </div>
+    </div>
+    <div class="tes">
+        <img class="src" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=014" alt="">
+        <h6 class="Price">Price: $4,152.86</h6>
+    </div>
+    <div class="tes">
+        <img class="src" src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=014" alt="">
+        <h6 class="Price">Price: $642.39</h6>
+    </div>
 </body>
 </html>
