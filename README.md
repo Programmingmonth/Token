@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/any_text-you_like-pink"></img>
 
-<img src="https://img.shields.io/badge/Crypto-the_project"></img>
+<img src="https://img.shields.io/badge/Crypto_project-Not globalized"></img>
 
 # What basic things to install:
 
