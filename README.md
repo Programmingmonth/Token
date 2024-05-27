@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/any_text-you_like-pink"></img>
 
-<img src="https://img.shields.io/badge/:badgeContent"></img>
+<img src="https://img.shields.io/badge/Crytpo-blue"></img>
 
 # What basic things to install:
 
