@@ -1,6 +1,4 @@
 # Token
-  
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2"></img>
 
 <img src="https://img.shields.io/badge/any_text-you_like-red"></img>
 
