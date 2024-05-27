@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/any_text-you_like-pink"></img>
 
+<img src="https://img.shields.io/badge/:badgeContent"></img>
+
 # What basic things to install:
 
 1. installing `virtulenv` ←↑→ `python3`
