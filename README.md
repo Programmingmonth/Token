@@ -47,7 +47,8 @@ pip install django
 # Running projects 👟:
 
 1. cd `Token` 💯
-2. `python3 manage.py runserver 8000` 💯
+2. `python3 manage.py runserver 8089` 💯
+3. open to link for localhost: `localhost:8089`
 
 # To Do:
 
