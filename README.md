@@ -1,5 +1,9 @@
 # Token
 
+<img src="https://img.shields.io/badge/any_text-you_like-white"></img>
+
+<img src="https://img.shields.io/badge/crypto-project_Not globalized-pink"></img>
+
 # What basic things to install:
 
 1. installing `virtulenv` ←↑→ `python3`
@@ -54,7 +58,7 @@ pip install django
 
 - [x] There is a video on YouTube 🎥
 - [ ] Not yet complete...
-- [ ] This code is only for Python and HTML, other languages are not included in this project.
+- [x] This code is only for Python and HTML, other languages are not included in this project.
 
 # Address:
 🎥 YouTube: https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
