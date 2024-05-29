@@ -57,7 +57,7 @@ pip install django
 # To Do:
 
 - [x] There is a video on YouTube 🎥
-- [ ] Not yet complete...
+- [x] Not yet complete...
 - [x] This code is only for Python and HTML, other languages are not included in this project.
 
 # Address:
