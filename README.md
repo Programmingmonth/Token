@@ -1,10 +1,17 @@
-# Token
+# 🎯 Token
 
-<img src="https://img.shields.io/badge/any_text-you_like-white"></img>
+<img
+    alt="Custom Badge"
+    src="https://img.shields.io/badge/any_text-you_like-white?style=for-the-badge"
+/>
 
-<img src="https://img.shields.io/badge/crypto-project_Not globalized-pink"></img>
+<img
+    alt="crypto-project Not globalized"
+    src="https://img.shields.io/badge/crypto--project-Not_globalized-pink?style=for-the-badge"
+/>
 
-# What basic things to install:
+
+# 📦 What basic things to install:
 
 1. installing `virtulenv` ←↑→ `python3`
 
@@ -54,12 +61,12 @@ pip install django
 2. `python3 manage.py runserver 8089` 💯
 3. open to link for localhost: `localhost:8089`
 
-# To Do:
+# 📚 To Do:
 
 - [x] There is a video on YouTube 🎥
 - [x] Completed...
 - [x] This code is only for Python and HTML, other languages are not included in this project.
 - [x] Gitignore.
 
-# Address:
+# 🔗 Address:
 🎥 YouTube: https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw
